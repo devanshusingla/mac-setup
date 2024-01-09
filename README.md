@@ -1,2 +1,2 @@
-# mac-setup
-Tools i use for my personal mac setup
+# My Mac Setup
+List of changes I made for my mac setup.
